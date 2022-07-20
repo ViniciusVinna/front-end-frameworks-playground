@@ -16,12 +16,12 @@
 
 <ul>
 	{#await getPokemons}
-		<!-- promise is pending -->
 		<p>Aguardando Pokemons...</p>
+
 	{:then response}
-		{#each response as pokemon}
+		{#each response as {name}, index}
 			<li>
-				<Link to={`/pokemon/${pokemon.name}`}>{pokemon.name}</Link>
+				<Link to={`/pokemon/${name}`}>{name} - {index}</Link>
 			</li>
 		{/each}
 	{:catch error}
