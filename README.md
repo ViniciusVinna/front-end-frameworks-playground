@@ -9,7 +9,7 @@
 <div align="left">
 
 > Comparação entre os frameworks React, Vue e Svelte.
-> Urls dos sites publicados no **Netlify**:
+> Urls das aplicações publicadas no **Netlify**:
 
 - [![Netlify Status](https://api.netlify.com/api/v1/badges/96fc5c62-93ac-48e2-8c4f-86ababaa42b0/deploy-status)](https://app.netlify.com/sites/vinna-react/deploys) [Netlify React](https://vinna-react.netlify.app)
 
@@ -27,6 +27,8 @@
 
 - [Frameworks/Toolchains - Inicialização Padrão](#frameworks-toolchains)
 - [React vs Vue vs Svelte - SPA Benchmarking](#spa-benchmarking)
+	- [Lighthouse Report](#lighthouse-report)
+	- [Network Report](#network-report)
 
 ## 🥞 &nbsp; Frameworks/Toolchains - Inicialização Padrão <a name="frameworks-toolchains"></a>
 
