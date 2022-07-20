@@ -8,16 +8,7 @@
 
 <div align="left">
 
-> Comparação entre os frameworks React, Vue e Svelte.
-> Urls das aplicações publicadas no **Netlify**:
-
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/96fc5c62-93ac-48e2-8c4f-86ababaa42b0/deploy-status)](https://app.netlify.com/sites/vinna-react/deploys) [Netlify React](https://vinna-react.netlify.app)
-
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/286f8a07-28b8-48f1-b8c2-54d380f13b36/deploy-status)](https://app.netlify.com/sites/vinna-vue/deploys) [Netlify Vue](https://vinna-vue.netlify.app)
-
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/69e7c31c-d1cb-41b0-8f72-a49c2722abd4/deploy-status)](https://app.netlify.com/sites/vinna-svelte/deploys) [Netlify Svelte](https://vinna-svelte.netlify.app)
-
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/69e7c31c-d1cb-41b0-8f72-a49c2722abd4/deploy-status)](https://app.netlify.com/sites/vinna-svelte/deploys) [Netlify Svelte SSR](https://vinna-ssr.netlify.app/)
+- [![Netlify Status - Svelte Pokemon](https://api.netlify.com/api/v1/badges/2d1acafa-e708-447a-a0aa-6715cac80d1f/deploy-status)](https://app.netlify.com/sites/vinna-svelte-pokemon/deploys)
 
 </div>
 
